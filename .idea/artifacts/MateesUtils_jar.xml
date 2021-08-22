@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MateesUtils:jar">
+    <output-path>$PROJECT_DIR$/out/jar</output-path>
+    <root id="archive" name="MateesUtils.jar">
+      <element id="module-output" name="MateesUtils" />
+    </root>
+  </artifact>
+</component>
